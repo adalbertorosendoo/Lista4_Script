@@ -1,0 +1,4 @@
+Classe			Faixa de endereços de IP			IPs por rede
+Classe A		10.0.0.0 – 10.255.255.255			16.777.214
+Classe B		172.16.0.0 – 172.31.255.255			65 534
+Classe C		192.168.0.0 – 192.168.255.255			254
